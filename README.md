@@ -22,7 +22,7 @@ Object detection and Classification is successfully implemented using python and
 
 Note : download and put the required "yolov3.weights" file in the working directory from [here](https://pjreddie.com/media/files/yolov3.weights).
 
-3. feeding the images to the yolo classifier
+3. feeding the images to the classifier
 4. getting the output layer and detected objects
 5. making rectangle and labels on the objects of the image
 
